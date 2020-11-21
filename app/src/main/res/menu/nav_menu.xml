@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <group android:id="@+id/nav_menu"
+        android:checkableBehavior="single">
+
+        <item android:id="@+id/nav_scientific"
+            android:title="@string/calculator"
+            android:icon="@drawable/ic_calculator"
+            >
+        </item>
+        <item android:id="@+id/nav_converter"
+            android:icon="@drawable/ic_millimeter"
+            android:title="@string/converter">
+        </item>
+
+    </group>
+
+</menu>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="temp_array">
+        <item>K</item>
+        <item>\u00B0C</item>
+        <item>\u00B0F</item>
+        <item>\u00B0R</item>
+        <item>\u00B0Ré</item>
+    </string-array>
+</resources>

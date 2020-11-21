@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">Cal-C</string>
+    <string name="Sin">sin</string>
+    <string name="Cos">cos</string>
+    <string name="Tan">tan</string>
+    <string name="Pi">π</string>
+    <string name="Root">√</string>
+    <string name="Plus">+</string>
+    <string name="Minus">-</string>
+    <string name="Multiply">×</string>
+    <string name="Divide">÷</string>
+    <string name="Log">log</string>
+    <string name="Ln">ln</string>
+    <string name="openBrackets">(</string>
+    <string name="closeBrackets">)</string>
+    <string name="equals">=</string>
+    <string name="converter">Unit Converter</string>
+    <string name="calculator">Calculator</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+
+    <string name="millimeter">mm\n<small><font fgcolor='#FF8E8E93'>millimeter</font></small></string>
+    <string name="centimeter">cm\n<small><font fgcolor='#FF8E8E93'>centimeter</font></small></string>
+    <string name="decimeter">dm\n<small><font fgcolor='#FF8E8E93'>decimeter</font></small></string>
+    <string name="meter">m\n<small><font fgcolor='#FF8E8E93'>meter</font></small></string>
+    <string name="inch">in\n<small><font fgcolor='#FF8E8E93'>inch</font></small></string>
+    <string name="mile">mi\n<small><font fgcolor='#FF8E8E93'>miles</font></small></string>
+    <string name="kilometer">km\n<small><font fgcolor='#FF8E8E93'>kilometer</font></small></string>
+    <string name="foot">ft\n<small><font fgcolor='#FF8E8E93'>foot</font></small></string>
+    <string name="yard">yd\n<small><font fgcolor='#FF8E8E93'>yard</font></small></string>
+    <string name="nauticalMile">nmi\n<small><font fgcolor='#FF8E8E93'>nautical miles</font></small></string>
+    <string name="lightYear">ly\n<small><font fgcolor='#FF8E8E93'>light year</font></small></string>
+
+    <string name="millimeterSquare">mm\u00B2\n<small><font fgcolor='#FF8E8E93'>square millimeter</font></small></string>
+    <string name="centimeterSquare">cm\u00B2\n<small><font fgcolor='#FF8E8E93'>square centimeter</font></small></string>
+    <string name="meterSquare">m\u00B2\n<small><font fgcolor='#FF8E8E93'>square meter</font></small></string>
+    <string name="hectare">ha\n<small><font fgcolor='#FF8E8E93'>hectare</font></small></string>
+    <string name="are">a\n<small><font fgcolor='#FF8E8E93'>are</font></small></string>
+    <string name="kilometerSquare">km\u00B2\n<small><font fgcolor='#FF8E8E93'>square kilometer</font></small></string>
+    <string name="footSquare">ft\u00B2\n<small><font fgcolor='#FF8E8E93'>square foot</font></small></string>
+    <string name="yardSquare">yd\u00B2\n<small><font fgcolor='#FF8E8E93'>square yard</font></small></string>
+    <string name="acre">acre\n<small><font fgcolor='#FF8E8E93'>acre</font></small></string>
+
+
+    <string name="milligram">mg\n<small><font fgcolor='#FF8E8E93'>milligram</font></small></string>
+    <string name="gram">g\n<small><font fgcolor='#FF8E8E93'>gram</font></small></string>
+    <string name="kilogram">kg\n<small><font fgcolor='#FF8E8E93'>kilogram</font></small></string>
+    <string name="metricTon">t\n<small><font fgcolor='#FF8E8E93'>metric ton</font></small></string>
+    <string name="grain">gr\n<small><font fgcolor='#FF8E8E93'>grain</font></small></string>
+    <string name="ounce">oz\n<small><font fgcolor='#FF8E8E93'>ounce</font></small></string>
+    <string name="pound">lb\n<small><font fgcolor='#FF8E8E93'>pound</font></small></string>
+    <string name="ton_us">ton_us\n<small><font fgcolor='#FF8E8E93'>ton (US)</font></small></string>
+    <string name="ton_uk">ton_uk\n<small><font fgcolor='#FF8E8E93'>ton (UK)</font></small></string>
+    <string name="carat">ct\n<small><font fgcolor='#FF8E8E93'>carat</font></small></string>
+    <string name="atomic_mass">u\n<small><font fgcolor='#FF8E8E93'>atomic mass</font></small></string>
+
+
+    <string name="milliliter">ml\n<small><font fgcolor='#FF8E8E93'>milliliter</font></small></string>
+    <string name="cubicCentimeter">cm\u00B3\n<small><font fgcolor='#FF8E8E93'>cubic centimeter</font></small></string>
+    <string name="liter">L\n<small><font fgcolor='#FF8E8E93'>liter</font></small></string>
+    <string name="cubicMeter">m\u00B3\n<small><font fgcolor='#FF8E8E93'>cubic meter</font></small></string>
+    <string name="cubicInch">in\u00B3\n<small><font fgcolor='#FF8E8E93'>cubic inch</font></small></string>
+    <string name="cubicFoot">ft\u00B3\n<small><font fgcolor='#FF8E8E93'>cubic foot</font></small></string>
+    <string name="cubicYard">yd\u00B3\n<small><font fgcolor='#FF8E8E93'>cubic yard</font></small></string>
+    <string name="gallon_us">gal_us\n<small><font fgcolor='#FF8E8E93'>gallon (liquid-US)</font></small></string>
+    <string name="gallon_dry_us">gal_dry_us\n<small><font fgcolor='#FF8E8E93'>gallon (dry-US)</font></small></string>
+    <string name="gal_uk">gal_uk\n<small><font fgcolor='#FF8E8E93'>gallon (UK)</font></small></string>
+    <string name="oz_us">oz_us\n<small><font fgcolor='#FF8E8E93'>ounce (US)</font></small></string>
+    <string name="oz_uk">oz_uk\n<small><font fgcolor='#FF8E8E93'>ounce (UK)</font></small></string>
+    <string name="qt_us">qt_us\n<small><font fgcolor='#FF8E8E93'>quart (US)</font></small></string>
+    <string name="qt_uk">qt_uk\n<small><font fgcolor='#FF8E8E93'>quart (UK)</font></small></string>
+    <string name="pt_us">pt_us\n<small><font fgcolor='#FF8E8E93'>pint (US)</font></small></string>
+    <string name="pt_uk">pt_uk\n<small><font fgcolor='#FF8E8E93'>pint (UK)</font></small></string>
+    <string name="bbl">bbl\n<small><font fgcolor='#FF8E8E93'>barrel</font></small></string>
+
+
+
+    <string name="meters_second">m/s\n<small><font fgcolor='#FF8E8E93'>meters/second</font></small></string>
+    <string name="meters_minute">m/min\n<small><font fgcolor='#FF8E8E93'>meters/minute</font></small></string>
+    <string name="kilometers_minute">km/min\n<small><font fgcolor='#FF8E8E93'>kilometers/minute</font></small></string>
+    <string name="kilometers_hours">km/h\n<small><font fgcolor='#FF8E8E93'>kilometers/hour</font></small></string>
+    <string name="feet_second">ft/s\n<small><font fgcolor='#FF8E8E93'>feet/second</font></small></string>
+    <string name="miles_hour">mph\n<small><font fgcolor='#FF8E8E93'>miles/hour</font></small></string>
+    <string name="mach">mach\n<small><font fgcolor='#FF8E8E93'>mach</font></small></string>
+    <string name="knot">knot\n<small><font fgcolor='#FF8E8E93'>knot</font></small></string>
+
+
+    <string name="Kelvin">K\n<small><font fgcolor='#FF8E8E93'>Kelvin</font></small></string>
+    <string name="Celsius">\u00B0C\n<small><font fgcolor='#FF8E8E93'>Celsius</font></small></string>
+    <string name="Fahrenheit">\u00B0F\n<small><font fgcolor='#FF8E8E93'>Fahrenheit</font></small></string>
+    <string name="Rankine">\u00B0R\n<small><font fgcolor='#FF8E8E93'>Rankine</font></small></string>
+    <string name="Réaumur">\u00B0Ré\n<small><font fgcolor='#FF8E8E93'>Réaumur </font></small></string>
+
+
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
+

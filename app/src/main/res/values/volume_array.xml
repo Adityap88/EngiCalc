@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="volume_array">
+        <item>ml</item>
+        <item>cm\u00B3</item>
+        <item>L</item>
+        <item>m\u00B3</item>
+        <item>in\u00B3</item>
+        <item>ft\u00B3</item>
+        <item>yd\u00B3</item>
+        <item>gal_us</item>
+        <item>gal_dry_us</item>
+        <item>gal_uk</item>
+        <item>oz_us</item>
+        <item>oz_uk</item>
+        <item>qt_us</item>
+        <item>qt_uk</item>
+        <item>pt_us</item>
+        <item>pt_uk</item>
+        <item>bbl</item>
+    </string-array>
+</resources>

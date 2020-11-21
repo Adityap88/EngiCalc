@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="area_array">
+        <item>mm\u00B2</item>
+        <item>cm\u00B2</item>
+        <item>m\u00B2</item>
+        <item>a</item>
+        <item>ha</item>
+        <item>km\u00B2</item>
+        <item>ft\u00B2</item>
+        <item>yd\u00B2</item>
+        <item>acre</item>
+    </string-array>
+</resources>

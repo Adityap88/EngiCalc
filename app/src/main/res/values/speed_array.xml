@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="speed_array">
+        <item>m/s</item>
+        <item>m/min</item>
+        <item>km/min</item>
+        <item>km/h</item>
+        <item>ft/s</item>
+        <item>mph</item>
+        <item>Mach</item>
+        <item>kn</item>
+    </string-array>
+</resources>
