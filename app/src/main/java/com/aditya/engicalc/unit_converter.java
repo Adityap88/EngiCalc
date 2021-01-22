@@ -43,9 +43,7 @@ public class unit_converter extends Fragment {
             R.drawable.ic_area,
             R.drawable.ic_weight,
             R.drawable.ic_volume,
-            R.drawable.ic_speed,
-            R.drawable.ic_temperature,
-            R.drawable.ic_pressure
+            R.drawable.ic_speed
     };
 
     @Override
@@ -102,7 +100,7 @@ public class unit_converter extends Fragment {
 
     public static class Adapter extends FragmentStatePagerAdapter {
 
-        String[] titles = {"Distance", "Area", "Mass", "Volume", "Speed", "Temperature", "Pressure"};
+        String[] titles = {"Distance", "Area", "Mass", "Volume", "Speed"};
 
         public Adapter(@NonNull FragmentManager fm) {
             super(fm);
@@ -122,10 +120,6 @@ public class unit_converter extends Fragment {
                     return new volumeFrag();
                 case 4:
                     return new speedFrag();
-                case 5:
-                    return new temperatureFrag();
-                case 6:
-                    return new pressureFrag();
                 default:
                     throw new IllegalStateException("Unexpected value: " + position);
             }
@@ -142,47 +136,4 @@ public class unit_converter extends Fragment {
             return titles[position];
         }
     }
-
-//    static class myPagerAdapter extends FragmentPagerAdapter {
-//
-//        String[] titles = {"Distance", "Area", "Mass", "Volume", "Speed", "Temperature", "Pressure"};
-//
-//        public myPagerAdapter(@NonNull FragmentManager fm, int behavior) {
-//            super(fm, behavior);
-//        }
-//
-//        @NonNull
-//        @Override
-//        public Fragment getItem(int position) {
-//            switch (position) {
-//                case 0:
-//                    return new distanceFrag();
-//                case 1:
-//                    return new areaFrag();
-//                case 2:
-//                    return new massFrag();
-//                case 3:
-//                    return new volumeFrag();
-//                case 4:
-//                    return new speedFrag();
-//                case 5:
-//                    return new temperatureFrag();
-//                case 6:
-//                    return new pressureFrag();
-//                default:
-//                    throw new IllegalStateException("Unexpected value: " + position);
-//            }
-//        }
-//
-//        @Override
-//        public int getCount() {
-//            return titles.length;
-//        }
-//
-//        @Nullable
-//        @Override
-//        public CharSequence getPageTitle(int position) {
-//            return titles[position];
-//        }
-//    }
 }
